@@ -15,6 +15,10 @@ This project is a full-stack journaling application built with a focus on user e
 - **Dashboard**: A dashboard to visualize your journaling activity and emotional trends.
 - **Responsive UI**: A beautiful and responsive user interface built with shadcn-vue and Tailwind CSS.
 
+## Screenshots
+
+<img width="425" height="663" alt="screencapture-sjournal-netlify-app-chat-with-soul-2025-11-01-12_29_18" src="https://github.com/user-attachments/assets/c162c8d4-20a2-4409-907e-1ba747ca0383" />
+
 ---
 
 Happy Journaling!
