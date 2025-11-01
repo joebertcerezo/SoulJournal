@@ -1,6 +1,6 @@
 # SoulJournal - Your Personal AI-powered daily journal
 
-SoulJournal is a modern, secure, and performant web application designed to be your private space for thoughts and emotions. It's a digital journal that not only allows you to record your daily entries but also connects you with an AI "soul" to explore your feelings and gain new perspectives.
+SoulJournal is a web application designed to be your private space for thoughts and emotions. It's a digital journal that not only allows you to record your daily entries but also connects you with an AI "soul" to explore your feelings and gain new perspectives.
 
 ## About The Project
 
